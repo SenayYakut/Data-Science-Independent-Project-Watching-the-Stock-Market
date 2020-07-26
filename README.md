@@ -7,7 +7,7 @@ This project is broken down into key questions that your client or company is lo
 You are asked by a company to help them make more informed decisions on investments. To start, you will be watching the stock market, collecting data, and identifying trends!
 
 ## Pre-requisites
-In order to complete this project, we suggest that you have familiarity with the content in the following courses or lessons on the Codecademy platform:
+In order to complete this project, we suggest that you have familiarity with:
 
 What is a Relational Database Management System? 299
 Manipulation 185
