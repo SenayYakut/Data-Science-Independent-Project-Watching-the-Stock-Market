@@ -9,10 +9,11 @@ You are asked by a company to help them make more informed decisions on investme
 ## Pre-requisites
 In order to complete this project, we suggest that you have familiarity with:
 
-What is a Relational Database Management System? 299
-Manipulation 185
-Queries 121
-Suggested Technologies
+1- What is a Relational Database Management System? 
+2- Manipulation 185
+3- Queries 121
+## Suggested Technologies
+
 Depending on where you are on your Path, there may be multiple technology options you can use to complete this project - we suggest the following:
 
-DB Browser for SQLite 1.2k
+1- DB Browser for SQLite 1.2k
