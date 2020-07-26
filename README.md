@@ -1,1 +1,1 @@
-# Data-Science-Project-Watching-the-Stock-Market
+# Watching-the-Stock-Market
