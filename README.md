@@ -9,7 +9,7 @@ You are asked by a company to help them make more informed decisions on investme
 ## Pre-requisites
 In order to complete this project, we suggest that you have familiarity with:
 
-1- What is a Relational Database Management System? 
+1 - What is a Relational Database Management System? 
 2- Manipulation 185
 3- Queries 121
 ## Suggested Technologies
