@@ -33,3 +33,13 @@ There are several tabs near the top of the window for working with the data:
 * Database Structure: View the tables in your database and the columns they contain.
 * Browse Data: Browse the data for each table.
 * Execute SQL: Write and execute SQL queries.
+
+## Resources & Support
+### Project-specific resources
+
+* SQLite Data Types 
+* SQLite Date and Time Functions 
+* SQLite strftime() Function 
+* SQLite Documentation 
+* SQLite Tutorial 
+
