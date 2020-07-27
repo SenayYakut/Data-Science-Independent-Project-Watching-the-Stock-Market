@@ -1,0 +1,8 @@
+CREATE TABLE stocks(
+    StockID INTEGER,
+    StockName TEXT,
+    Sector TEXT,
+    Price REAL,
+    Date DATE
+
+)
