@@ -1,0 +1,3 @@
+Manipulation
+1- Collect data of 5 stocks
+    1- Create a table called stocks, where you will be inserting your data.
